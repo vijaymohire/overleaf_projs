@@ -19,3 +19,5 @@ $ . process.sh
 This work was supported by the
 UK Science and Technology Facilities Council (STFC)
 through grant ST/N00101X/1.
+
+##The above details are used for educational purpose only. I do not hold any copyrights (vijaymohire), unless stated by me
